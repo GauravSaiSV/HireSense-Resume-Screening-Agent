@@ -1,0 +1,15 @@
+Gaurav Sharma
+
+EDUCATION
+B.Tech in Computer Science and Artificial Intelligence
+
+SKILLS
+Python, Machine Learning, Deep Learning, SQL, TensorFlow
+
+EXPERIENCE
+AI/ML Intern
+Worked on machine learning models using Python and TensorFlow.
+Developed data preprocessing and classification pipelines.
+
+PROJECTS
+Built an image classification system using deep learning.

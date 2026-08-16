@@ -130,3 +130,44 @@ def test_match_projects():
     assert result["projects"][0]["score"] > (
         result["projects"][1]["score"]
     )
+
+def test_deep_learning_project_matches_machine_learning_requirement():
+    project = (
+        "Built an image classification system "
+        "using deep learning."
+    )
+
+    job = JobProfile(
+        job_title="AI/ML Engineer Intern",
+        required_skills=[
+            "Machine Learning",
+        ],
+    )
+
+    score = project_relevance_score(
+        project,
+        job,
+    )
+
+    assert score > 0.0
+
+
+def test_image_classification_is_recognized_as_ml_project():
+    project = (
+        "Developed an image classification model "
+        "for identifying objects."
+    )
+
+    job = JobProfile(
+        job_title="Machine Learning Engineer",
+        required_skills=[
+            "Machine Learning",
+        ],
+    )
+
+    score = project_relevance_score(
+        project,
+        job,
+    )
+
+    assert score > 0.0

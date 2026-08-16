@@ -1,0 +1,32 @@
+AI/ML Engineer Intern
+
+We are looking for an AI/ML Engineer Intern to join our engineering team.
+
+Requirements:
+
+- Currently pursuing a B.Tech or equivalent degree in Computer Science,
+  Artificial Intelligence, Machine Learning, or a related field.
+- Strong programming skills in Python.
+- Good understanding of Machine Learning concepts and algorithms.
+- Experience with SQL and data preprocessing.
+- Familiarity with Git and version control.
+- Ability to work with data and build machine learning models.
+
+Preferred Skills:
+
+- Experience with TensorFlow or PyTorch.
+- Familiarity with FastAPI or Flask.
+- Knowledge of cloud platforms such as AWS or Google Cloud.
+- Experience deploying machine learning models.
+
+Responsibilities:
+
+- Develop and evaluate machine learning models.
+- Perform data preprocessing and exploratory data analysis.
+- Build data pipelines for machine learning workflows.
+- Collaborate with engineers to integrate ML models into applications.
+- Document experiments, results, and technical decisions.
+
+Preferred Certifications:
+
+- Machine Learning or Artificial Intelligence certifications are a plus.

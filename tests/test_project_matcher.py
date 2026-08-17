@@ -171,3 +171,36 @@ def test_image_classification_is_recognized_as_ml_project():
     )
 
     assert score > 0.0
+
+def test_full_project_description_gets_strong_relevance_score():
+    project = (
+        "Image Classification System - "
+        "Built an image classification system using "
+        "Python, TensorFlow and deep learning."
+    )
+
+    job = JobProfile(
+        job_title="AI/ML Engineer Intern",
+        required_skills=[
+            "Python",
+            "Machine Learning",
+        ],
+        preferred_skills=[
+            "TensorFlow",
+            "Deep Learning",
+        ],
+        keywords=[
+            "image classification",
+            "deep learning",
+        ],
+        responsibilities=[
+            "Develop and evaluate machine learning models.",
+        ],
+    )
+
+    score = project_relevance_score(
+        project,
+        job,
+    )
+
+    assert score >= 0.7

@@ -80,7 +80,14 @@ class CandidateProfile(BaseModel):
 
     projects: list[str] = Field(
         default_factory=list,
-        description="Projects explicitly mentioned in the resume."
+        description=(
+            "Each project should preserve the complete project information "
+            "explicitly stated in the resume, including the project name, "
+            "description, technologies, frameworks, libraries, tools, and "
+            "technical methods or concepts mentioned. Do not reduce projects "
+            "to only their titles. Combine the available information into a "
+            "single string for each project."
+        )
     )
 
     certifications: list[str] = Field(

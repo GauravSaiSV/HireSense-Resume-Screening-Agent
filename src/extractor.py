@@ -38,7 +38,34 @@ STRICT RULES:
     is explicitly provided. Do not calculate or estimate a duration
     unless the resume itself provides enough explicit date information.
 
-11. Projects should contain projects explicitly mentioned in the resume.
+11. Projects must preserve the full project information explicitly
+    available in the resume.
+
+    For each project, include:
+    - the project title/name
+    - the project description
+    - technologies, frameworks, libraries, or tools explicitly
+      mentioned for that project
+    - important technical methods or concepts explicitly mentioned
+
+    Combine this information into a single string for each project.
+
+    Do not reduce a project to only its title.
+
+    Example:
+    If the resume says:
+
+        Image Classification System
+        Built an image classification system using Python,
+        TensorFlow and deep learning.
+
+    Return:
+
+        "Image Classification System - Built an image classification
+        system using Python, TensorFlow and deep learning."
+
+    Only include information explicitly present in the resume.
+    Never invent technologies or project details.
 
 12. Certifications should contain certifications explicitly mentioned
     in the resume.

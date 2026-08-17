@@ -1,0 +1,47 @@
+Frontend Software Engineer
+
+About the Role
+
+We are looking for a Frontend Engineer to build responsive,
+high-performance web applications and reusable UI components.
+
+Responsibilities
+
+- Build responsive web applications.
+- Develop reusable frontend components.
+- Work closely with designers and backend engineers.
+- Integrate REST APIs into frontend applications.
+- Improve application performance and accessibility.
+- Write maintainable and testable frontend code.
+- Participate in code reviews and technical discussions.
+- Debug and resolve frontend issues.
+
+Required Skills
+
+- JavaScript
+- TypeScript
+- React
+- HTML
+- CSS
+- Git
+- REST API
+
+Preferred Skills
+
+- Next.js
+- Node.js
+- AWS
+- Docker
+- CI/CD
+- Jest
+- Figma
+- UI/UX
+
+Education
+
+- Bachelor's degree in Computer Science, Information Technology,
+  or a related field.
+
+Experience
+
+- 1+ years of frontend development experience.

@@ -1,0 +1,47 @@
+Software Development Engineer
+
+About the Role
+
+We are looking for a Software Development Engineer to design, build,
+test and operate scalable software systems.
+
+Responsibilities
+
+- Design and develop reliable software applications.
+- Build backend services and REST APIs.
+- Work with databases and distributed systems.
+- Write clean, maintainable and testable code.
+- Debug production issues and improve application performance.
+- Participate in code reviews and technical design discussions.
+- Work with cloud infrastructure and CI/CD pipelines.
+- Collaborate with engineers and product teams.
+
+Required Skills
+
+- Python or Java
+- Data Structures and Algorithms
+- Object-Oriented Programming
+- SQL
+- Git
+- REST API
+- Software Development
+
+Preferred Skills
+
+- AWS
+- Docker
+- Kubernetes
+- JavaScript
+- TypeScript
+- React
+- CI/CD
+- Distributed Systems
+
+Education
+
+- Bachelor's degree in Computer Science, Information Technology,
+  or a related field.
+
+Experience
+
+- 1+ years of software development experience.

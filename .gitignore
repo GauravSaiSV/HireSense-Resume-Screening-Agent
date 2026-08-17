@@ -9,7 +9,8 @@ __pycache__/
 .env
 
 # Generated outputs
-data/outputs/
+data/outputs/*
+!data/outputs/.gitkeep
 
 # VS Code
 .vscode/

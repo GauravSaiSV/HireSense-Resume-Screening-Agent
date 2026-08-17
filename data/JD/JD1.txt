@@ -1,0 +1,47 @@
+AI/ML Software Engineer
+
+About the Role
+
+We are looking for a Software Engineer with strong foundations in
+machine learning and software development to build scalable AI-powered
+applications and services.
+
+Responsibilities
+
+- Design, develop, test and maintain reliable software systems.
+- Build machine learning applications and production-ready services.
+- Develop APIs and backend services for ML applications.
+- Work with engineers and product teams to design and deliver new features.
+- Debug performance issues and improve system reliability.
+- Participate in code reviews, testing and technical design discussions.
+- Work with cloud infrastructure and distributed systems.
+
+Required Skills
+
+- Python
+- Machine Learning
+- Data Structures and Algorithms
+- Object-Oriented Programming
+- SQL
+- Git
+- Software Development
+
+Preferred Skills
+
+- PyTorch
+- TensorFlow
+- Deep Learning
+- Natural Language Processing
+- Computer Vision
+- AWS
+- Docker
+- REST API
+
+Education
+
+- Bachelor's degree in Computer Science, Artificial Intelligence,
+  Machine Learning, or a related field.
+
+Experience
+
+- 1+ years of software development or relevant project/internship experience.
